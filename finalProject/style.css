@@ -1,5 +1,38 @@
-body{
-    color:aqua;
-    background-color: darkred;
-}
+body {
+    color: blue;
+    background-image: url "https://w0.peakpx.com/wallpaper/117/6/HD-wallpaper-blurred-red-background-red-aesthetic.jpg";
+    }
+  
+  h1 {
+    color: darkgrey;
+  }
 
+
+h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+
+  h4{
+      text-align: center;
+  }
+  h5{
+      text-align: center;
+  }
+
+  .city {
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  
